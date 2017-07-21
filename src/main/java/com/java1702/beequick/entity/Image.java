@@ -1,5 +1,7 @@
 package com.java1702.beequick.entity;
 
+import org.hibernate.annotations.GenericGenerator;
+
 import javax.persistence.*;
 import java.sql.Timestamp;
 
@@ -15,6 +17,8 @@ public class Image {
     private Timestamp createtime;
 
     @Id
+    @GeneratedValue(generator = "hib_uuid")
+    @GenericGenerator(name="hib_uuid",strategy = "uuid")
     @Column(name = "IMAGE_ID", nullable = false, length = 32)
     public String getImageId() {
         return imageId;

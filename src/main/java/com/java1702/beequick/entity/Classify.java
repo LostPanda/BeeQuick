@@ -1,5 +1,7 @@
 package com.java1702.beequick.entity;
 
+import org.hibernate.annotations.GenericGenerator;
+
 import javax.persistence.*;
 import java.sql.Timestamp;
 
@@ -14,6 +16,8 @@ public class Classify {
     private Timestamp createtime;
 
     @Id
+    @GeneratedValue(generator = "hib_uuid")
+    @GenericGenerator(name="hib_uuid",strategy = "uuid")
     @Column(name = "CLASSIFY_ID", nullable = false, length = 32)
     public String getClassifyId() {
         return classifyId;
