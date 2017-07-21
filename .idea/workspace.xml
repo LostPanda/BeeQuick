@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83aedcfc-7fc3-4779-a258-5c3aaa3f25d4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Address.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartProduct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/CartProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Classify.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Classify.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Collect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Image.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Image.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Keyword.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Keyword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <push-targets>
+      <push-target-info target-remote="BeeQuick" target-branch="master" repo="$PROJECT_DIR$" source="master" />
+    </push-targets>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/CartProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Classify.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Collect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Image.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Keyword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java1702/beequick/utils/Fetion.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\packages\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="beeQuick Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="beeQuick Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="beequick" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeeQuick" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeeQuick" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="9fa18974-22bd-4ec2-8f77-e42467968a76" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.java1702.beequick.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\codes\idea_projects\BeeQuick\src\main\java\com\java1702\beequick" />
+      <recent name="E:\codes\idea_projects\BeeQuick\src\main" />
+      <recent name="E:\codes\idea_projects\BeeQuick\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\何潇\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83aedcfc-7fc3-4779-a258-5c3aaa3f25d4" name="Default" comment="" />
+      <created>1500598931584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500598931584</updated>
+      <workItem from="1500598936693" duration="2088000" />
+      <workItem from="1500606483251" duration="1480000" />
+      <workItem from="1500615872514" duration="72000" />
+      <workItem from="1500616764923" duration="2392000" />
+      <workItem from="1500622689328" duration="864000" />
+      <workItem from="1500632734808" duration="1625000" />
+      <workItem from="1500637072076" duration="20000" />
+    </task>
+    <task id="LOCAL-00001" summary="trying">
+      <created>1500617246428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500617246428</updated>
+    </task>
+    <task id="LOCAL-00002" summary="trying">
+      <created>1500622938624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500622938624</updated>
+    </task>
+    <task id="LOCAL-00003" summary="trying">
+      <created>1500633543476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500633543476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8541000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21709532" sideWeight="0.5128645" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22617246" sideWeight="0.4871355" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trying" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9fa18974-22bd-4ec2-8f77-e42467968a76/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9fa18974-22bd-4ec2-8f77-e42467968a76/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9fa18974-22bd-4ec2-8f77-e42467968a76/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9fa18974-22bd-4ec2-8f77-e42467968a76/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9fa18974-22bd-4ec2-8f77-e42467968a76/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kidhx/travel/controller/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/asdfasdfasdf.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/asdfasdf.java" />
+    <entry file="uml://MAVEN/com.java1702:beeQuick:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.java1702:beeQuick:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="653.5635090399795">com.java1702:beeQuick:1.0-SNAPSHOT</node>
+            <node x="217.5" y="0.0">junit:junit:jar:4.12</node>
+            <node x="405.0" y="0.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="210.5" y="67.93850903997952">javax.servlet:servlet:jar:3.1.0</node>
+            <node x="167.0" y="137.93850903997952">mysql:mysql-connector-java:jar:5.1.9</node>
+            <node x="404.0" y="312.9385090399795">org.hibernate:hibernate-core:jar:5.2.10.Final</node>
+            <node x="916.0" y="311.1127578304058">org.hibernate:hibernate-core:jar:5.2.10.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="635.5" y="592.9385090399795">org.hibernate:hibernate-core:jar:5.2.10.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="673.0" y="219.43850903997952">org.hibernate:hibernate-core:jar:5.2.10.Final/org.javassist:javassist:jar:3.20.0-GA</node>
+            <node x="684.0" y="452.9385090399795">org.hibernate:hibernate-core:jar:5.2.10.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="608.5" y="522.9385090399795">org.hibernate:hibernate-core:jar:5.2.10.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.1.Final</node>
+            <node x="678.0" y="79.43850903997952">org.hibernate:hibernate-core:jar:5.2.10.Final/org.jboss:jandex:jar:2.0.3.Final</node>
+            <node x="668.5" y="149.43850903997952">org.hibernate:hibernate-core:jar:5.2.10.Final/com.fasterxml:classmate:jar:1.3.0</node>
+            <node x="678.5" y="382.9385090399795">org.hibernate:hibernate-core:jar:5.2.10.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="602.0" y="312.9385090399795">org.hibernate:hibernate-core:jar:5.2.10.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final</node>
+            <node x="423.5" y="745.0635090399795">net.sf.ehcache:ehcache:jar:2.10.3</node>
+            <node x="674.0" y="745.0635090399795">net.sf.ehcache:ehcache:jar:2.10.3/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="176.0" y="618.4385090399795">org.hibernate:hibernate-ehcache:jar:5.2.10.Final</node>
+            <node x="214.0" y="207.93850903997952">com.alibaba:druid:jar:1.1.1</node>
+            <node x="423.0" y="172.93850903997952">com.alibaba:druid:jar:1.1.1/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="432.5" y="242.93850903997952">com.alibaba:druid:jar:1.1.1/com.alibaba:tools:jar:1.8.0</node>
+            <node x="207.0" y="959.0512668703853">com.alibaba:fastjson:jar:1.2.35</node>
+            <node x="1310.0" y="823.1127578304058">org.springframework:spring-core:jar:4.3.9.RELEASE</node>
+            <node x="1490.0" y="823.1127578304058">org.springframework:spring-core:jar:4.3.9.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="655.0" y="899.2485739750445">org.springframework:spring-context:jar:4.3.9.RELEASE</node>
+            <node x="924.0" y="866.0635090399795">org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-aop:jar:4.3.9.RELEASE</node>
+            <node x="1121.0" y="845.0099376114081">org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE</node>
+            <node x="904.0" y="935.945002546473">org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-expression:jar:4.3.9.RELEASE</node>
+            <node x="414.0" y="673.6885090399795">org.springframework:spring-orm:jar:4.3.9.RELEASE</node>
+            <node x="663.5" y="657.1885090399795">org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.9.RELEASE</node>
+            <node x="930.5" y="682.6885090399795">org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-tx:jar:4.3.9.RELEASE</node>
+            <node x="1128.0" y="998.299656226127">org.springframework:spring-test:jar:4.3.9.RELEASE</node>
+            <node x="414.0" y="815.0635090399795">org.springframework:spring-web:jar:4.3.9.RELEASE</node>
+            <node x="185.0" y="889.0512668703853">org.springframework:spring-webmvc:jar:4.3.9.RELEASE</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-tx:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="42.0" y="-7.5" />
+              <point x="1230.0" y="690.1885090399795" />
+              <point x="-50.0" y="-5.454545454545496" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-tx:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE">
+              <point x="42.0" y="7.5" />
+              <point x="1041.0" y="705.1885090399795" />
+              <point x="-54.5" y="-8.571428571428555" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="54.5" y="-0.0" />
+              <point x="-50.0" y="-0.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="28.0" y="-0.0" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="43.5" y="-11.785714285714334" />
+              <point x="167.0" y="40.5" />
+              <point x="1230.0" y="40.5" />
+              <point x="-50.0" y="-13.636363636363626" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="60.5" y="12.5" />
+              <point x="324.0" y="916.5512668703853" />
+              <point x="404.0" y="976.445002546473" />
+              <point x="1230.0" y="976.445002546473" />
+              <point x="-50.0" y="10.909090909090878" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/dom4j:dom4j:jar:1.6.1">
+              <point x="59.0" y="3.3333333333333144" />
+              <point x="602.0" y="397.9385090399795" />
+              <point x="-34.5" y="-0.0" />
+            </edge>
+            <edge source="net.sf.ehcache:ehcache:jar:2.10.3" target="net.sf.ehcache:ehcache:jar:2.10.3/org.slf4j:slf4j-api:jar:1.7.7">
+              <point x="39.5" y="-0.0" />
+              <point x="-39.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-expression:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="68.5" y="-0.0" />
+              <point x="1230.0" y="950.945002546473" />
+              <point x="-50.0" y="8.18181818181813" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-aop:jar:4.3.9.RELEASE">
+              <point x="58.0" y="-11.25" />
+              <point x="824.0" y="902.9985739750445" />
+              <point x="904.0" y="891.0635090399795" />
+              <point x="-48.5" y="10.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-expression:jar:4.3.9.RELEASE">
+              <point x="60.5" y="7.5" />
+              <point x="324.0" y="911.5512668703853" />
+              <point x="404.0" y="958.445002546473" />
+              <point x="-68.5" y="7.5" />
+            </edge>
+            <edge source="org.springframework:spring-test:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="47.5" y="-0.0" />
+              <point x="-50.0" y="13.636363636363626" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="org.hibernate:hibernate-ehcache:jar:5.2.10.Final">
+              <point x="43.5" y="-1.0714285714285552" />
+              <point x="-69.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE">
+              <point x="60.5" y="2.5" />
+              <point x="324.0" y="906.5512668703853" />
+              <point x="404.0" y="914.2485739750445" />
+              <point x="-58.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-aop:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE">
+              <point x="48.5" y="-7.5" />
+              <point x="-54.5" y="8.571428571428555" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.3.9.RELEASE">
+              <point x="43.5" y="7.5" />
+              <point x="167.0" y="904.0512668703853" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final">
+              <point x="59.0" y="13.333333333333371" />
+              <point x="602.0" y="607.9385090399795" />
+              <point x="-77.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="49.0" y="-11.25" />
+              <point x="602.0" y="646.6885090399795" />
+              <point x="1230.0" y="646.6885090399795" />
+              <point x="-50.0" y="-10.909090909090878" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.9.RELEASE" target="org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-tx:jar:4.3.9.RELEASE">
+              <point x="49.5" y="10.0" />
+              <point x="824.0" y="682.1885090399795" />
+              <point x="904.0" y="690.1885090399795" />
+              <point x="-42.0" y="-7.5" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:4.3.9.RELEASE">
+              <point x="43.5" y="5.35714285714289" />
+              <point x="167.0" y="822.5635090399795" />
+              <point x="-49.0" y="-7.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="59.0" y="-13.333333333333314" />
+              <point x="602.0" y="68.93850903997952" />
+              <point x="824.0" y="68.93850903997952" />
+              <point x="-56.5" y="-10.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE">
+              <point x="49.5" y="-0.0" />
+              <point x="1041.0" y="672.1885090399795" />
+              <point x="-54.5" y="-12.85714285714289" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-aop:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="48.5" y="7.5" />
+              <point x="1041.0" y="888.5635090399795" />
+              <point x="1121.0" y="903.8849376114081" />
+              <point x="1230.0" y="903.8849376114081" />
+              <point x="-50.0" y="2.727272727272748" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="net.sf.ehcache:ehcache:jar:2.10.3">
+              <point x="43.5" y="3.2142857142856656" />
+              <point x="167.0" y="767.5635090399795" />
+              <point x="-39.5" y="7.5" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.9">
+              <point x="43.5" y="-7.5" />
+              <point x="-78.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="49.5" y="-10.0" />
+              <point x="824.0" y="662.1885090399795" />
+              <point x="904.0" y="655.8021454036159" />
+              <point x="1230.0" y="655.8021454036159" />
+              <point x="-50.0" y="-8.18181818181813" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE">
+              <point x="49.0" y="-3.75" />
+              <point x="1041.0" y="826.3135090399795" />
+              <point x="-54.5" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-ehcache:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final">
+              <point x="69.5" y="-10.0" />
+              <point x="-59.0" y="7.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-expression:jar:4.3.9.RELEASE">
+              <point x="58.0" y="11.25" />
+              <point x="824.0" y="925.4985739750445" />
+              <point x="-68.5" y="-7.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-ehcache:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="69.5" y="-0.0" />
+              <point x="824.0" y="633.4385090399795" />
+              <point x="-56.5" y="10.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE">
+              <point x="60.5" y="-7.5" />
+              <point x="324.0" y="896.5512668703853" />
+              <point x="404.0" y="855.5635090399795" />
+              <point x="1041.0" y="855.5635090399795" />
+              <point x="-54.5" y="4.285714285714334" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:4.3.9.RELEASE">
+              <point x="43.5" y="11.785714285714334" />
+              <point x="167.0" y="1006.4782276546985" />
+              <point x="522.0" y="1006.4782276546985" />
+              <point x="602.0" y="924.2485739750445" />
+              <point x="-58.0" y="10.0" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.3.9.RELEASE">
+              <point x="43.5" y="13.928571428571445" />
+              <point x="167.0" y="1013.299656226127" />
+              <point x="-47.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-core:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE/commons-logging:commons-logging:jar:1.2">
+              <point x="50.0" y="-0.0" />
+              <point x="-69.5" y="-0.0" />
+            </edge>
+            <edge source="com.alibaba:druid:jar:1.1.1" target="com.alibaba:druid:jar:1.1.1/com.alibaba:jconsole:jar:1.8.0">
+              <point x="31.5" y="-7.5" />
+              <point x="324.0" y="215.43850903997952" />
+              <point x="404.0" y="187.93850903997952" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-ehcache:jar:5.2.10.Final" target="net.sf.ehcache:ehcache:jar:2.10.3">
+              <point x="69.5" y="10.0" />
+              <point x="404.0" y="752.5635090399795" />
+              <point x="-39.5" y="-7.5" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="org.hibernate:hibernate-core:jar:5.2.10.Final">
+              <point x="43.5" y="-3.2142857142856656" />
+              <point x="167.0" y="320.4385090399795" />
+              <point x="-59.0" y="-7.5" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE">
+              <point x="58.0" y="-3.75" />
+              <point x="824.0" y="910.4985739750445" />
+              <point x="904.0" y="906.5635090399795" />
+              <point x="1041.0" y="906.5635090399795" />
+              <point x="-54.5" y="12.85714285714289" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="com.alibaba:druid:jar:1.1.1">
+              <point x="43.5" y="-5.35714285714289" />
+              <point x="167.0" y="222.93850903997952" />
+              <point x="-31.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="58.0" y="3.75" />
+              <point x="1230.0" y="917.9985739750445" />
+              <point x="-50.0" y="5.454545454545496" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="org.springframework:spring-orm:jar:4.3.9.RELEASE">
+              <point x="43.5" y="1.0714285714285552" />
+              <point x="167.0" y="688.6885090399795" />
+              <point x="-49.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/org.javassist:javassist:jar:3.20.0-GA">
+              <point x="59.0" y="-3.3333333333333144" />
+              <point x="602.0" y="234.43850903997952" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/antlr:antlr:jar:2.7.7">
+              <point x="59.0" y="6.666666666666686" />
+              <point x="602.0" y="467.9385090399795" />
+              <point x="-29.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="111.0" y="-0.0" />
+              <point x="-56.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE">
+              <point x="49.0" y="11.25" />
+              <point x="602.0" y="904.2485739750445" />
+              <point x="-58.0" y="-10.0" />
+            </edge>
+            <edge source="com.alibaba:druid:jar:1.1.1" target="com.alibaba:druid:jar:1.1.1/com.alibaba:tools:jar:1.8.0">
+              <point x="31.5" y="7.5" />
+              <point x="324.0" y="230.43850903997952" />
+              <point x="404.0" y="257.9385090399795" />
+              <point x="-30.5" y="-0.0" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="javax.servlet:servlet:jar:3.1.0">
+              <point x="43.5" y="-9.64285714285711" />
+              <point x="167.0" y="82.93850903997952" />
+              <point x="-35.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE" target="org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-tx:jar:4.3.9.RELEASE">
+              <point x="49.0" y="3.75" />
+              <point x="602.0" y="705.1885090399795" />
+              <point x="-42.0" y="7.5" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="junit:junit:jar:4.12">
+              <point x="43.5" y="-13.928571428571445" />
+              <point x="167.0" y="15.0" />
+              <point x="-28.0" y="-0.0" />
+            </edge>
+            <edge source="com.java1702:beeQuick:1.0-SNAPSHOT" target="com.alibaba:fastjson:jar:1.2.35">
+              <point x="43.5" y="9.64285714285711" />
+              <point x="167.0" y="974.0512668703853" />
+              <point x="-38.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE" target="org.springframework:spring-orm:jar:4.3.9.RELEASE/org.springframework:spring-jdbc:jar:4.3.9.RELEASE">
+              <point x="49.0" y="-3.75" />
+              <point x="602.0" y="672.1885090399795" />
+              <point x="-49.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.3.9.RELEASE" target="org.springframework:spring-core:jar:4.3.9.RELEASE">
+              <point x="49.0" y="-11.25" />
+              <point x="602.0" y="802.1885090399795" />
+              <point x="1230.0" y="802.1885090399795" />
+              <point x="-50.0" y="-2.727272727272748" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.9.RELEASE" target="org.springframework:spring-web:jar:4.3.9.RELEASE">
+              <point x="60.5" y="-12.5" />
+              <point x="324.0" y="891.5512668703853" />
+              <point x="-49.0" y="7.5" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final">
+              <point x="59.0" y="-0.0" />
+              <point x="-111.0" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/com.fasterxml:classmate:jar:1.3.0">
+              <point x="59.0" y="-6.666666666666686" />
+              <point x="602.0" y="164.43850903997952" />
+              <point x="-44.5" y="-0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.0.1.Final">
+              <point x="59.0" y="10.0" />
+              <point x="-104.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-aop:jar:4.3.9.RELEASE">
+              <point x="49.0" y="3.75" />
+              <point x="824.0" y="833.8135090399795" />
+              <point x="904.0" y="871.0635090399795" />
+              <point x="-48.5" y="-10.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.2.10.Final" target="org.hibernate:hibernate-core:jar:5.2.10.Final/org.jboss:jandex:jar:2.0.3.Final">
+              <point x="59.0" y="-10.0" />
+              <point x="602.0" y="94.43850903997952" />
+              <point x="-35.0" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-aop:jar:4.3.9.RELEASE">
+              <point x="60.5" y="-2.5" />
+              <point x="324.0" y="901.5512668703853" />
+              <point x="404.0" y="881.0635090399795" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.3.9.RELEASE" target="org.springframework:spring-context:jar:4.3.9.RELEASE/org.springframework:spring-beans:jar:4.3.9.RELEASE">
+              <point x="49.0" y="11.25" />
+              <point x="602.0" y="734.5635090399795" />
+              <point x="1041.0" y="734.5635090399795" />
+              <point x="-54.5" y="-4.285714285714334" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0632504548211037" x="566.0" y="150.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9fa18974-22bd-4ec2-8f77-e42467968a76/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="97" column="46" lean-forward="false" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="45" lean-forward="false" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/CartProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Classify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Collect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Keyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="46" lean-forward="false" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/utils/Fetion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java1702/beequick/entity/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>BeeQuick:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jQuery-2.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA|BeeQuick</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
